@@ -1,4 +1,4 @@
-## Hi there 👋
+Hey, I am Montasir, also known as Monty. I enjoy creating small projects in my free time.
 
 <!--
 **montasirmoyen/montasirmoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
