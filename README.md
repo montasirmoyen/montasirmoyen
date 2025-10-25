@@ -1,4 +1,4 @@
-### 💻 Hey, I'm Montasir, also known as Monty. I enjoy creating small projects in my free time.
+### 💻 Hey, I'm Montasir, also known as Monty, I enjoy working on my projects in my free time.
 #### 📌 Learn more: https://www.montasirmoyen.com/
 ####
 <div align="left">
