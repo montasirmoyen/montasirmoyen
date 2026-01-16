@@ -21,7 +21,7 @@ export function get_monty() {
 
 💡 Learn more: https://www.montasirmoyen.com/
 
-⚡️ Featured Dev Blog: https://www.montasirmoyen.com/blog/ramai
+⚡️ View my Dev Blogs: https://www.montasirmoyen.com/blog
 
 ####
 <div align="left">
