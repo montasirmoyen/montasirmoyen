@@ -1,4 +1,4 @@
-### 💻 Hey, I'm Montasir, also known as Monty, I enjoy working on my projects during my free time.
+### 💻 Hey, I'm Montasir, also known as Monty. Welcome to my GitHub profile.
 
 ```ts
 const monty = {
@@ -19,7 +19,9 @@ export function get_monty() {
 }
 ```
 
-Learn more: https://www.montasirmoyen.com/
+💡 Learn more: https://www.montasirmoyen.com/
+
+⚡️ Featured Dev Blog: https://www.montasirmoyen.com/blog/ramai
 
 ####
 <div align="left">
