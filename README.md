@@ -8,13 +8,14 @@ const monty = {
   hobbies: ["Fútbol", "Listening to music", "Anime"],
   university: "Suffolk University",
   major: "Computer Science",
-  languages: ["TypeScript", "JavaScript", "Python", "Java"],
-  os: ["MacOS", "Windows", "Ubuntu"],
-  interests: ["Software Engineering", "Web Development", "Game Development"],
-  currently_studying: ["Operating Systems", "Software Engineering"],
+  languages: ["TypeScript", "JavaScript", "Python", "Java", "C++", "C"],
+  os: ["MacOS", "Windows", "Linux (Ubuntu)"],
+  interests: ["Software Development", "Data", "Artificial Intelligence", "Web Development", "Game Development"],
+  currentlyStudying: ["Operating Systems", "Software Engineering", "Discrete Math II"],
+  website: "https://www.montasirmoyen.com"
 }
 
-export function get_monty() {
+export function getMonty() {
   return Promise.resolve(monty)
 }
 ```
@@ -29,11 +30,13 @@ export function get_monty() {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
