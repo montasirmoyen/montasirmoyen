@@ -1,4 +1,4 @@
-### 💻 Hey, I'm Montasir, also known as Monty. Welcome to my GitHub profile.
+# 💻 Hey, I'm Montasir, also known as Monty.
 
 ```ts
 const monty = {
