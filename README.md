@@ -9,8 +9,8 @@ const monty = {
   university: "Suffolk University",
   major: "Computer Science",
   languages: ["TypeScript", "JavaScript", "Python", "Java", "C++", "C"],
-  os: ["MacOS", "Windows", "Linux (Ubuntu)"],
-  interests: ["Software Development", "Data", "Artificial Intelligence", "Web Development", "Game Development"],
+  os: ["MacOS", "Windows", "Linux"],
+  interests: ["Artificial Intelligence", "Cloud", "Data"],
   currentlyStudying: ["Operating Systems", "Software Engineering", "Discrete Math II"],
   website: "https://www.montasirmoyen.com"
 }
@@ -30,20 +30,18 @@ export function getMonty() {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring boot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="12" />
 </div>
