@@ -1,4 +1,4 @@
-# 💻 Hey, I'm Montasir, also known as Monty.
+## 💻 Hey, I'm Montasir, also known as Monty.
 
 ```ts
 const monty = {
@@ -19,13 +19,11 @@ export function getMonty() {
   return Promise.resolve(monty)
 }
 ```
-
-💡 Learn more: https://www.montasirmoyen.com/
-
-⚡️ View my Dev Blogs: https://www.montasirmoyen.com/blog
-
+### 💡 Learn more: https://www.montasirmoyen.com/
 ####
 <div align="left">
+  <img src="mm-logo.png" height="40" alt="Monty Logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -44,4 +42,5 @@ export function getMonty() {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="12" />
+  <img src="mm-logo.png" height="40" alt="Monty Logo" />
 </div>
