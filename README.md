@@ -11,7 +11,7 @@ const monty = {
   languages: ["TypeScript", "JavaScript", "Python", "Java", "C++", "C"],
   os: ["MacOS", "Windows", "Linux"],
   interests: ["Artificial Intelligence", "Cloud", "Data"],
-  currentlyStudying: ["Operating Systems", "Software Engineering", "Discrete Math II"],
+  currentlyStudying: ["Databases"],
   website: "https://www.montasirmoyen.com"
 }
 
